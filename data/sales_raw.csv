@@ -1,0 +1,5 @@
+order_id,order_date,customer_name,product_name,amount,currency,region
+1,2024-01-01,Jan Kowalski,Laptop,4500,PLN,PL
+2,2024-01-02,Anna Nowak,Monitor,1200,PLN,PL
+3,2024-01-03,John Smith,Mouse,50,USD,US
+4,2024-01-03,Anna Nowak,Keyboard,300,PLN,PL
